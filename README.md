@@ -117,7 +117,7 @@
 <div align='center'>
 
 ## <b> Saludos :)</b>
-
+---
 </div>
 <br>
 <br>
@@ -126,9 +126,4 @@
 
 ---
 
-<br>
-
-
-
----
 
