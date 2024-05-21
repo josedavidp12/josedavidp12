@@ -87,7 +87,7 @@ Claro, aquí está el contenido traducido y adaptado al español con tu nombre, 
 <br>
 <br>
 
-## <b> ¡Conectemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b> ¡Contacto!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 <div align='left'>
 
@@ -99,7 +99,7 @@ Claro, aquí está el contenido traducido y adaptado al español con tu nombre, 
 
 <li>
 <a href="https://x.com/SoyJose_David" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  0Josedavid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -107,7 +107,7 @@ Claro, aquí está el contenido traducido y adaptado al español con tu nombre, 
 
 <li>
 <a href="mailto:programasdavid77@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  0Josedavid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
