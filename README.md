@@ -104,16 +104,12 @@ Claro, aquí está el contenido traducido y adaptado al español con tu nombre, 
 
 <ul>
 
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://x.com/SoyJose_David" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -121,7 +117,7 @@ Claro, aquí está el contenido traducido y adaptado al español con tu nombre, 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="mailto:programasdavid77@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -137,7 +133,7 @@ Claro, aquí está el contenido traducido y adaptado al español con tu nombre, 
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b> Saludos :)</b>
 
 </div>
 <br>
@@ -149,10 +145,7 @@ Claro, aquí está el contenido traducido y adaptado al español con tu nombre, 
 
 <br>
 
-Crédito: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Última edición: 09/11/2022
 
 ---
 
-Espero que esto sea lo que necesitas, Jose David.
