@@ -1,4 +1,3 @@
-Claro, aquí está el contenido traducido y adaptado al español con tu nombre, Jose David:
 
 ---
 
