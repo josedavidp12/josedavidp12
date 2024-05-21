@@ -16,10 +16,8 @@
 <br>
 
 - Un apasionado desarrollador Front-end autodidacta
-- Participando en CTF's en mi tiempo libre
 - Actualmente aprendiendo Desarrollo Web por mi cuenta
-- Página web personal [link](https://www.0xabdulkhalid.ml)
-- Actualmente estoy disponible para una pasantía o una nueva oportunidad laboral, este es [mi currículum](https://read.cv/0xabdulkhalid)
+- Actualmente estoy disponible para una pasantía o una nueva oportunidad laboral.
 
 <br><br>
 
